@@ -76,7 +76,7 @@ function App() {
          :(hasError? <h1 style={{ color: 'white', textAlign: 'center' }}> ❌ To get the weather of your city, please allow the location </h1>
          :<WeathersCard weatherProp={weather} tempProp={temp}/>)
       }
-      
+  
     </div>
   )
 }
