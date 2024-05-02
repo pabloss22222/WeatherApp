@@ -65,7 +65,7 @@ function App() {
                  <div class="pelotas"></div>
                  <span class="texto-cargando">Loading...</span>
                  {
-                  showMessage && <p style={{color: '#ccc'}}>Pleace, activate the location</p>
+                  showMessage && <p style={{color: '#ccc'}}>Please, activate the location</p>
                  }
                  
                </div>
